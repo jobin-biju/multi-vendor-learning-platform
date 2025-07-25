@@ -1,4 +1,3 @@
-# multi-vendor-learning-platform
 # Multi-Vendor Learning Platform
 
 An advanced full-stack learning platform where multiple vendors can create and manage their own courses, and students can browse, enroll, and learn through a centralized system. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), the platform is designed to be modular, scalable, and efficient for educational content delivery.
