@@ -12,7 +12,7 @@ const Assessment = () => {
 
   const courseid = state?.courseid;
 
-  const openaiKey = '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';
+  const openaiKey = '';
 
   const callOpenAI = async (prompt) => {
     const res = await fetch('https://api.openai.com/v1/chat/completions', {
