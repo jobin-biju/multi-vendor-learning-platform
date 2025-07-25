@@ -10,7 +10,7 @@ An advanced full-stack learning platform where multiple vendors can create and m
 - 📦 Admin Panel to manage vendors, users, and platform-wide content
 - 💳 Payment integration for course enrollments
 - 📊 Analytics and revenue tracking for vendors
-- 📚 Modular course structure: Videos, PDFs, Quizzes, etc.
+- 📚 Modular course structure: Video.
 - 🌐 Responsive UI built with Tailwind CSS
 
 ## 🛠️ Tech Stack
